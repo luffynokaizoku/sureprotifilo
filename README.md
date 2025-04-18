@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+# 🌟 SureProtifilo - Portfolio of Sure Sri Venkat Rama Surya
 
-## Project info
+Welcome to my digital space – a place where creativity meets code, and anime fuels innovation.
 
-**URL**: https://lovable.dev/projects/d9a35536-4309-4cde-80ca-899603811d18
+## 🔗 Live Site
 
-## How can I edit this code?
+**URL**: [https://luffynokaizoku.github.io/sureprotifilo/](https://luffynokaizoku.github.io/sureprotifilo/)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 👨‍💻 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d9a35536-4309-4cde-80ca-899603811d18) and start prompting.
+Hi! I'm **Sure Sri Venkat Rama Surya**, a developer who’s deeply passionate about exploring technology and vibing with code.  
+When I’m not writing functions, I’m diving into the world of anime or experimenting with cool UI/UX effects.
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🧠 Hobbies
+- Watching anime
+- Exploring new technologies
+- Creating interactive and animated web experiences
 
-**Use your preferred IDE**
+### 🎬 Favorite Anime
+> *One Piece*, *Naruto*, *Bleach*, *Demon Slayer*, *Black Clover*, *Death Note*, *Mushoku Tensei*, *Blue Lock*, *Solo Leveling*, and many more!
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+This portfolio is powered by:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- ⚡ **Vite** – Fast build tool
+- 🔤 **TypeScript** – Typed JavaScript for scalability
+- ⚛️ **React** – Frontend library
+- 🎨 **Tailwind CSS** – Utility-first styling
+- 🧱 **shadcn-ui** – Beautifully designed UI components
+- 🎯 Custom Animations, Mouse Effects, and Scroll-Based Interactions
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Everything is crafted with love, detail, and the spirit of the Straw Hats 🏴‍☠️.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🚀 Getting Started Locally
+
+Clone this repository and run it locally to explore or make changes.
+
+```bash
+# 1. Clone the repository
+git clone <your-repo-url>
+
+# 2. Navigate to the project directory
+cd sureprotifilo
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d9a35536-4309-4cde-80ca-899603811d18) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
